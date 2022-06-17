@@ -40,12 +40,12 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/wordpress-blue.svg"></code>
+  <code><img title="Wordpress" height="25" src="images/wordpress-blue.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/figma-q.svg"></code>
+  <code><img title="Figma" height="25" src="images/figma-1.svg"></code>
 </p>
 <hr>
 
@@ -80,12 +80,6 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yassinehaimouch/Donuts-Space" title="Donuts-Space"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinehaimouch&repo=Donuts-Space&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yassinehaimouch/my-team-page" title="my-team-page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinehaimouch&repo=my-team-page&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yassinehaimouch/1337-pool" title="1337-pool"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinehaimouch&repo=1337-pool&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yassinehaimouch/404-Not-Found-" title="404-Not-Found-"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinehaimouch&repo=404-Not-Found-&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
